@@ -40,7 +40,7 @@ selenium==3.141.0
 six==1.15.0
 tempora==4.0.1
 toml==0.10.2
-urllib3==1.26.2
+urllib3==1.26.3
 Werkzeug==0.16.1
 WTForms==2.3.3
 zc.lockfile==2.0
